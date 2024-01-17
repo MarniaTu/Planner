@@ -22,6 +22,6 @@ _Цель:_ реализация системы классов задач с и�
 <details>
 <summary>mvn clean verify</summary>
 
-![img.png](img.png)
+![img.png](src/img.png)
 
 </details>
